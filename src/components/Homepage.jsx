@@ -19,7 +19,6 @@ function HomePage() {
         style={{
           border: "2px solid black",
           backgroundColor: "#8CDBFF",
-          maxWidth: "300px",
         }}
       >
         <h1>Trova la tua città</h1>
